@@ -1,0 +1,2 @@
+可以直接在Gaussian_Elimination.ipynb中运行程序
+运行结果在文件compile_gaussian_elimination.sh.o2107421里
